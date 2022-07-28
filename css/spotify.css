@@ -1,0 +1,141 @@
+.main {
+   width: 100%;
+   display: block;
+   padding-left: 0%;
+   padding-right: 0%;
+   background-color: #ffd4db; 
+}
+.hero {
+    text-align: left;
+}
+.article-hero {
+    padding-top: 70px;
+    padding-bottom: 40px;
+    padding-left: 5%;
+    width: 1170px;
+}
+.h1-hero h1 {
+    font-size: 40px;
+}
+.h2-hero h2 {
+    font-size: 0px;
+}
+.ButtonInner {
+    background-color: rgb(25, 20, 20);
+    border-bottom-color: rgb(25, 20, 20);
+    border-bottom-left-radius: 500px;
+    border-bottom-right-radius: 500px;
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+    /*border-image-outset: 0px;
+    border-image-outset: 0;
+    border-image-repeat: stretch;
+    border-image-slice: 100%;
+    border-image-source: none;
+    border-image-width: 1;
+    border-left-color: rgb(25, 20, 20);
+    border-left-style: solid;
+    border-left-width: 2px;
+    border-right-color: rgb(25, 20, 20);
+    border-right-style: solid;
+    border-right-width: 2px;*/
+    border-top-color: rgb(25, 20, 20);
+    border-top-left-radius: 500px;
+    border-top-right-radius: 500px;
+    border-top-style: solid;
+    border-top-width: 2px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+        display: inline;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    height: auto;
+    justify-content: center;
+    letter-spacing: normal;
+    line-height: 20px;
+    padding-block-end: 14px;
+    padding-block-start: 14px;
+    padding-inline-end: 32px;
+    position: relative;
+    text-align: center;
+    /*text-decoration-color: rgb(255, 255, 255);
+    /*text-decoration-line: none;
+    /*text-decoration-style: solid;
+    /*text-decoration-thickness: auto;*/
+    text-transform: uppercase;
+    /*user-select: none;*/
+    width: 82.1562px;
+    /*-webkit-box-pack: center;
+    -webkit-font-smoothing: antialiased;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);*/
+}
+.ButtonFocus {
+    background-attachment:scroll;
+    background-clip:border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: none;
+    background-origin: padding-box;
+    background-position-x: 0%;
+    background-position-y: 0%;
+    /*background-repeat-x:;
+    background-repeat-y:;*/
+    background-size:auto;
+    block-size: 64px;
+    border-bottom-color: rgba(0, 0, 0, 0);
+    border-bottom-left-radius: 500px;
+    border-bottom-right-radius: 500px;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+    border-image-outset: 0;
+    border-image-repeat: stretch;
+    border-image-slice: 100%;
+    border-image-source: none;
+    border-image-width: 1;
+        /*initial .ixIjmW
+        initial .ixIjmW*/
+    border-left-color: rgba(0, 0, 0, 0);
+    border-left-style: solid;
+    border-left-width: 3px;
+    border-right-color: rgba(0, 0, 0, 0);
+    border-right-style: solid;
+    border-right-width: 3px;
+    border-top-color: rgba(0, 0, 0, 0);
+    border-top-left-radius: 500px;
+    border-top-right-radius: 500px;
+    border-top-style: solid;
+    border-top-width: 3px;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+        /*var(--text-base,"#FFF") .iHJzUU a
+        -webkit-link a:-webkit-any-link
+        var(--text-base,inherit) .fhfzxI
+        var(--text-base,"#FFF") .iHJzUU*/
+    cursor: pointer;
+    display: block;
+        /*block .ixIjmW
+        block .ixIjmW
+        block div*/
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    height: 64px;
+    inline-size: 162.156px;
+    left: -6px;
+    letter-spacing: normal;
+    line-height: 20px;
+    pointer-events: none;
+    position: absolute;
+    text-align: center;
+    text-decoration-thickness: auto;
+    text-transform: none;
+    top: -6px;
+    transition-delay: 0s;
+    transition-duration: 0.2s;
+    transition-property: border-color;
+    transition-timing-function: ease-in;
+    user-select: none;
+    width: 162.156px;
+    /*-webkit-font-smoothing antialiased
+    -webkit-tap-highlight-color rgba(0, 0, 0, 0)*/
+}
